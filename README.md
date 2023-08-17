@@ -10,3 +10,5 @@ This data looks at the performance of students from years 9 - 12 from 15 differe
 Conclusions From The Data:
 1. Independent schools scored higher overall in average scores and percentage passed in reading and maths compared to government schools. The data suggests that Independent schools produce higher-scoring students in maths and reading. 
 2. The two lowest-performing schools (by % overall passing) had more budget allocated per student and a larger amount of students overall than the two top-performing schools. This indicates that a higher allocation of budget per student does not reflect high maths and reading scores.
+
+I tried to format my data, but the code I was using made my data into objects and then affected later code. I ran out of time to trouble shoot this before the deadline, but I have kept the original code as comments. 
